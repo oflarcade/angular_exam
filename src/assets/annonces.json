@@ -1,0 +1,9 @@
+[
+  {"titre":"Soirée d'entreprises", "description":"Soirées d'Entreprise passera ce samedi à Hotel Laico Hammamet pour l'échange de compétences et actions de charités", "position":"haut", "etat":"confirmé"},
+  {"titre":"Séminaires", "description":"Un séminaire sur la thématique IOT aura lieu ce dimanche dans la médina Hammamet. Na ratez pas l'occasion.", "position":"bas", "etat":"annulé"},
+  {"titre":"Nouveau Produit", "description":"La société XXX lanceme son nouveau produit à la fin de cette semaine. De grandes surprises vous attend en visitant son site internet", "position":"bas", "etat":"en attente" },
+  {"titre":"Nouveau Smartphone", "description":"Samsung lance son nouveau Smartphone S7 doté de plusieurs caractéristiques. Pour les découvrir suivez nous sur la page FB de Samsung Tunisie", "position":"bas", "etat":"en attente" },
+  {"titre":"Belle Villa à vendre", "description":"Une très belle villa à vendre au berge de lac. Pour plus de détails appelez nous au +216 12 00 00", "position":"haut", "etat":"confirmé" },
+  {"titre":"Location pour étudiantes", "description":"Un appartement haut standing à louer. 5 min d'esprit", "position":"haut", "etat":"annulé" },
+  {"titre":"Nouvelle voiture à vendre", "description":"Une voiture KIA modèle 2015 à vendre. Contactez moi au numéro +216 88 88 88", "position":"bas", "etat":"confirmé" }
+]

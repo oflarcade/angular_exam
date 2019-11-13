@@ -1,0 +1,11 @@
+<router-outlet></router-outlet>
+<ul style="list-style-type: none;">
+        <li *ngFor="let annonce of list">
+                <div [hidden]="annonce.etat=='annulé'" [ngStyle]=" annonce.etat=='confirmé' ? 
+                        {'background-color': 'green', 'margin': '10px',  'width': 'auto' } :
+                        {'background-color': 'yellow', 'margin': '10px', 'width': 'auto' }">
+
+                        {{annonce.titre}}--{{annonce.description}}--{{annonce.position}}--{{annonce.etat}}
+                </div>
+        </li>
+</ul>
